@@ -1,4 +1,4 @@
-This is the repository for the Lancaster chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/lancaster/blob/master/code-of-conduct.md) and the [Seminar Discussion]() guidelines.
+This is the repository for the [Lancaster chapter of Papers We Love](https://www.meetup.com/papers-we-love-lancaster-meetup-group/). As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/lancaster/blob/master/code-of-conduct.md) and the [Seminar Discussion]() guidelines.
 
 ### Welcome
 The world we live on today wasn't built in a day. It was built over many years by all kinds of people who contributed and built on each other's work to create the marvellous technological society we live in. 
