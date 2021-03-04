@@ -9,7 +9,9 @@ We will study academic papers from the Papers We Love archive as well as those i
 
 
 ### Meetups
-We will use Meetup to meet with one another and have our discussions before it is deemed safe to meet in person. Anyone from around the world is welcome to join our meetups online. The schedule of our meetups will be confirmed once we get a cadence going.
+We will use Meetup to meet with one another and have our discussions before it is deemed safe to meet in person. Anyone from around the world is welcome to join our meetups online. The schedule of our meetups will be confirmed once we get a cadence going. 
+
+You can visit our Meetup group [here](https://www.meetup.com/papers-we-love-lancaster-meetup-group/).
 
 ### Contact
 Organizer - [Alejandro Gomez](mailto:agomez314@protonmail.com")
